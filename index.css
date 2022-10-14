@@ -137,8 +137,8 @@
     }
     
     .skills__item .right {
-      input {
-        display: none;
+      input :
+        display none;
       }
       
       label {
@@ -153,8 +153,8 @@
       input:checked + label {
         background: #79A9CE;
       }
-    }
-  }
+    
+  
   
   
   
